@@ -84,3 +84,6 @@ SNAKE-PIC18F4550-MAX7219/
 5. Flash the `.hex` file onto your PIC18F4550.
 6. Assemble the hardware based on the pinout section and the schematic provided in `/docs`.
 7. Power the system with 5V, move the joystick to start playing, and press the MCLR button to restart after a Game Over!
+
+## Author
+**Martin Farid Carrasco Gómez** Mechatronics Engineering Student
